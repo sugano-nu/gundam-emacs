@@ -1,0 +1,25 @@
+#+TITLE: README: gundam-emacs
+#+DATE: 2016-01-29
+#+AUTHOR: SUGANO-NU
+
+* What is this?
+- Respect for Gundam.
+- A shooting game by Emacs Lisp.
+- Smooth Backgroud scroll with gamegrid and XPM graphics.
+- Still in alpha version 0.10
+
+* How to play
+** Start
+- open =gundam-emacs.el=
+- ~M-x eval-buffer~
+- ~M-x gundam-emacs~
+
+** Key
+- ~C-f~ or =[right]= cursor : Move right.
+- ~C-b~ or =[left]= cursor : Move Left.
+- ~C-p~ or =[up]= cursor : Move upward.
+- ~C-b~ or =[down]= cursor : Move downward.
+- ~[SPACE]~ : Shoot.
+
+** Comment
+- No scores yet
