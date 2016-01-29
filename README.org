@@ -4,6 +4,7 @@
 
 * What is this?
 - Respect for Gundam.
+- Respect for Emacs, Emacs Lisp, gamegrid and org-mode.
 - A shooting game by Emacs Lisp.
 - Smooth Backgroud scroll with gamegrid and XPM graphics.
 - Still in alpha version 0.10
