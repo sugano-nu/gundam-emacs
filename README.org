@@ -24,3 +24,12 @@
 
 ** Comment
 - No scores yet
+
+* Screen Shot
+#+CAPTION: Screen Shot
+#+NAME: gundam-emacs-demo
+#+ATTR_HTML: :width 480
+file:gundam-emacs-demo.png
+
+* Movie
+- file:gundam-emacs-demo.mov
