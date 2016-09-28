@@ -29,7 +29,8 @@
 #+CAPTION: Screen Shot
 #+NAME: gundam-emacs-demo
 #+ATTR_HTML: :width 480
-https://github.com/sugano-nu/gundam-emacs/gundam-emacs-demo.png
+https://github.com/sugano-nu/gundam-emacs/blob/master/gundam-emacs-demo.png
 
 * Movie
-https://github.com/sugano-nu/gundam-emacs/gundam-emacs-demo.mov
+https://github.com/sugano-nu/gundam-emacs/blob/master/gundam-emacs-demo.mov
+
